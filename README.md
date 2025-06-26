@@ -1,6 +1,6 @@
-# Exmaple: Merging and denormalization the international and norwegian release packages
+# Exmaple: Merging and denormalization the international and Norwegian release packages
 
-# Setup and running script
+# Setup and running the script
 Requirements:
 - `uv`(https://docs.astral.sh/uv/ )
 - International and Norwegian release package in `input` folder
