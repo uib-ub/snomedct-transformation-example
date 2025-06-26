@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Input folder
-input/
+/input/SnomedCT*
