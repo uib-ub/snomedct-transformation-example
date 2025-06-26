@@ -1,4 +1,4 @@
-# Exmaple: Merging and denormalization the international and Norwegian release packages
+# Example: Merging and denormalization the international and Norwegian release packages
 
 # Setup and running the script
 Requirements:
